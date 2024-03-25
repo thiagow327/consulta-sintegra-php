@@ -1,7 +1,7 @@
 # consulta-sintegra
 <b>Descrição</b>
 <br>
-Este projeto em PHP foi desenvolvido para realizar consultas de informações relacionadas a um CNPJ no site Sintegra. O script faz a simulação de interações com o site para obter dados como Inscrição Estadual, Nome Empresarial, Endereço, Telefone, E-mail, Atividade Econômica Principal, entre outros.
+Este projeto em PHP foi desenvolvido para realizar consultas de informações relacionadas a CNPJ's no site do Sintegra. O script faz a simulação de interações com o site para obter dados como Inscrição Estadual, Nome Empresarial, Endereço, Telefone, E-mail, Atividade Econômica, entre outros.
 
 <b>Requisitos</b>
 <br>
